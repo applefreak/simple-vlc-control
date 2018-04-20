@@ -1,0 +1,17 @@
+{
+  "name": "simple-vlc-control",
+  "version": "1.0.0",
+  "description": "Controls VLC with a twist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: This is not the test you are looking for\" && exit 1"
+  },
+  "keywords": [
+    "vlc"
+  ],
+  "author": "Poyu Chen <me@poyu.xyz>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
