@@ -6,8 +6,13 @@
   "scripts": {
     "test": "echo \"Error: This is not the test you are looking for\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/applefreak/simple-vlc-control.git"
+  },
   "keywords": [
-    "vlc"
+    "vlc",
+    "remote control"
   ],
   "author": "Poyu Chen <me@poyu.xyz>",
   "license": "MIT",
