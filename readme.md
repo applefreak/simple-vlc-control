@@ -5,13 +5,13 @@
 ## Install
 
 ```bash
-npm install simpel-vlc-control
+npm install simple-vlc-control
 ```
 
 ## Usage
 
 ```js
-const vlc = require('simpel-vlc-control')
+const vlc = require('simple-vlc-control')
 
 const instance = vlc({ password: '1234' }) // Creates control instance
 

@@ -1,6 +1,6 @@
 {
   "name": "simple-vlc-control",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Controls VLC with a twist",
   "main": "index.js",
   "scripts": {
